@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+
 """
 Unauthorize
 Burp Suite Python/Jython extension using the legacy Extender API.
@@ -6,7 +6,7 @@ Burp Suite Python/Jython extension using the legacy Extender API.
 Features
 --------
 1. Burp Scanner active-scan integration.
-2. Right-click "Check Unauthenticated Access" in Proxy/Repeater.
+2. Right-click "Unauthoize" in Proxy/Repeater.
 3. Removes configurable authentication/session headers.
 4. Replays the request without those headers.
 5. Compares authenticated and unauthenticated responses.
