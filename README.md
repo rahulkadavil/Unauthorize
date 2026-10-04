@@ -1,7 +1,7 @@
 # Unauthorize
 Burp Suite extension to help identify unauthenticated access / broken access control issues 
 Python/Jython Burp extension for testing whether an authenticated endpoint
-remains accessible after authentication/session material is removed.
+remains accessible after authentication/session header is removed.
 
 ## What it does
 
